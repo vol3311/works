@@ -1,0 +1,49 @@
+html {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    }
+    
+    *,
+    *:before,
+    *:after {
+    -webkit-box-sizing: inherit;
+            box-sizing: inherit;
+    }
+    
+    * {
+    margin: 0;
+    padding: 0;
+    }
+
+    .header {
+        margin: 16px 0 40px 0;
+        padding: 0 16px;
+        }
+    
+        p{
+            margin-bottom: 10px;
+        }
+
+        a:link {
+            color: black;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:visited {
+            color: black;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:hover {
+            font-weight: bold;
+            background-color: transparent;
+        }
+    
+        .links {
+            position: fixed; 
+            bottom: 16px;
+            padding: 0 16px;
+        } 
+        
