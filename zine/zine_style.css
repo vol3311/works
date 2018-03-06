@@ -71,9 +71,6 @@ left: 8px;
 @media (max-width:768px){
 .header {
 margin: 16px 0 24px 0;
-display: -webkit-box;
-display: -ms-flexbox;
-display: flex;
 }
 .describe{
 line-height: 1.5em;
