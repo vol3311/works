@@ -40,9 +40,7 @@ margin-bottom: 8px;
 
 .header {
 margin: 16px 0 24px 0;
-display: -webkit-box;
-display: -ms-flexbox;
-display: flex;
+
 }
 
 .describe{
@@ -55,7 +53,7 @@ margin-bottom: 80px;
 }
 
 .title {
-font-weight: bold;
+font-size: 24px;
 }
 
 .arrow{
@@ -84,7 +82,7 @@ display: flex;
 margin: 0 -8px;
 } 
 .describe{
-width: 60%;
+width: 50%;
 }
 .arrow{
 position: fixed;
